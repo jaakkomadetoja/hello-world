@@ -1,2 +1,3 @@
 # hello-world
-Trying out for the first time
+
+Hop! Gonna publish my code here!
